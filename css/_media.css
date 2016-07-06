@@ -1,78 +1,11 @@
-/* Custom, iPhone Retina */
-/* Extra Small Devices, Phones */
-/* Small Devices, Tablets */
-/* Medium Devices, Desktops */
-/* Large Devices, Wide Screens */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
-/*# sourceMappingURL=_media.css.map */
+@media only screen and (max-device-width: 480px) {
+  * {
+    background: red; } }
+@media only screen and (max-width: 800px) and (min-width: 480px) {
+  * {
+    background: blue; } }
+@media only screen and (max-width: 4000px) and (min-width: 800px) {
+  * {
+    background: yellow; } }
 
 /*# sourceMappingURL=_media.css.map */

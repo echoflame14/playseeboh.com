@@ -1,1 +1,26 @@
+@media only screen and (max-device-width: 480px) {
+*{
+	background:red;
+}
+}
 
+
+
+
+
+
+@media only screen and (max-width: 800px) and (min-width: 480px){
+*{
+	background:blue;
+}
+}
+
+
+
+
+
+@media only screen and (max-width: 4000px) and (min-width: 800px){
+*{
+	background:yellow;
+}
+}
